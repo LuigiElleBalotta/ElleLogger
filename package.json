@@ -1,0 +1,13 @@
+{
+    "name": "elle-logger",
+    "version": "1.0.0",
+    "description": "Simple & Customizable colored logger written in Typescript",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "/dist"
+    ],
+    "dependencies": {
+        "moment": "2.29.1"
+    }
+}
