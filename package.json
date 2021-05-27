@@ -1,12 +1,16 @@
 {
     "name": "elle-logger",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple & Customizable colored logger written in Typescript",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "files": [
         "/dist"
     ],
+    "scripts": {
+        "build": "tsc",
+        "npmjs": "npm run build && npm publish"
+    },
     "dependencies": {
         "moment": "2.29.1"
     }
