@@ -4,6 +4,7 @@
     "description": "Simple & Customizable colored logger written in Typescript",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
+    "keywords": ["logger", "configurable", "moment", "colorfoul", "plugandplay"],
     "files": [
         "/dist"
     ],
