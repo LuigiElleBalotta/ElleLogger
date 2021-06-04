@@ -1,6 +1,7 @@
 # Elle Logger 
 
 [![npm version](https://badge.fury.io/js/elle-logger.svg)](https://badge.fury.io/js/elle-logger)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.paypal.me/LuigiElle)
 
 Simple & Customizable colored logger written in Typescript
 
